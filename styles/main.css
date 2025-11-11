@@ -191,3 +191,5 @@ footer {
 /* remove extra outside margins on ends (main and submenus) */
 .menu > li:first-child a { margin-left: 0; }
 .menu > li:last-child a { margin-right: 0; }
+
+ul.circle { list-style-type: circle; }
